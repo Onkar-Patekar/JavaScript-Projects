@@ -1,0 +1,26 @@
+body{
+    background-color: grey;
+    padding: 0;
+    justify-content: center;
+    text-align: center;
+    padding-top: 100px;
+    color: #fff;
+}
+
+#subt{
+    background-color: #000;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 10px 10px 10px 10px;
+    cursor: pointer;
+}
+
+#wrapper .resultParas p{
+    font-size: 20px;
+}
+
+#wrapper #guess{
+    font-size: 40px;
+    font-weight: 600;
+}

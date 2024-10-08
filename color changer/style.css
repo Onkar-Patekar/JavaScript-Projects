@@ -1,0 +1,24 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+} */
+
+#orange{
+    background-color:orange;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#red{
+    background-color: red;
+}
+
+button{
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    margin: 5px;
+}
